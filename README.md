@@ -4,6 +4,7 @@
 - **lua🧾**
 ### I'm trying to learn: 🎓
 - **Java☕**
+- **Python 🐍**
 - **Go🐱‍👤**
 ######
 **All my repos are private, for now 😉**
