@@ -1,4 +1,4 @@
-### 👋
+# 👋
 - a guy who knows how to program in **php🐘** and **lua🧾**
 - trying to learn **Java☕** and **Go🐱‍👤**
 
