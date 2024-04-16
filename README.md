@@ -1,6 +1,11 @@
 # 👋
-- a guy who knows how to program in **php🐘** and **lua🧾**
-- trying to learn **Java☕** and **Go🐱‍👤**
+### I know: 🧠
+- **php🐘**
+- **lua🧾**
+### Trying to learn: 🎓
+- **Java☕**
+- **Go🐱‍👤**
+  
 
 <!--
 **Kanashimo/kanashimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
