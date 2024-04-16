@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Kanashimo!
-### I know: 🧠
+### 🧠 I know:
 - **php🐘**
 - **lua🧾**
-### I know something of: 👀
+### 👀 I know something of:
 - **Python 🐍**
-### I'm trying to learn: 🎓
+### 🎓 I'm trying to learn:
 - **Java☕**
 - **Go🐱‍👤**
 ######
