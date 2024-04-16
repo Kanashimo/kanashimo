@@ -5,7 +5,7 @@
 ### I'm trying to learn: 🎓
 - **Java☕**
 - **Go🐱‍👤**
-### **All my repos are private, for now 😉**
+**All my repos are private, for now 😉**
 ###### 😘  
 
 <!--
