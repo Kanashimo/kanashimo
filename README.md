@@ -1,4 +1,4 @@
-# 👋
+# 👋 Hello, I'm Kanashimo!
 ### I know: 🧠
 - **php🐘**
 - **lua🧾**
