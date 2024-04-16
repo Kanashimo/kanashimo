@@ -7,7 +7,7 @@
 - **Go🐱‍👤**
 ######
 **All my repos are private, for now 😉**
-###### 😘  
+<!-- ###### 😘  -->
 
 <!--
 **Kanashimo/kanashimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
