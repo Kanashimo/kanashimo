@@ -2,10 +2,10 @@
 ### I know: 🧠
 - **php🐘**
 - **lua🧾**
-### Trying to learn: 🎓
+### I'm trying to learn: 🎓
 - **Java☕**
 - **Go🐱‍👤**
-  
+### 😘  
 
 <!--
 **Kanashimo/kanashimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
