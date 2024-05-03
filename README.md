@@ -6,7 +6,7 @@
 - **Python 🐍**
 ### 🎓 I'm trying to learn:
 - **Java☕**
-- **Go🐱‍👤**
+<!--- **Go🐱‍👤**-->
 - **Rust🦀**
 ######
 **All my repos are private, for now 😉**
