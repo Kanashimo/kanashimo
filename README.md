@@ -7,6 +7,7 @@
 ### 🎓 I'm trying to learn:
 - **Java☕**
 - **Go🐱‍👤**
+- **Rust🦀**
 ######
 **All my repos are private, for now 😉**
 <!-- ###### 😘  -->
