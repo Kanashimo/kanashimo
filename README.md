@@ -1,4 +1,4 @@
-# `"👋": "Hello!",`
+# 👋 Hello!
 ```json
 "🪪": "Franciszek 'Kanashimo' Chycki",
 "💬": "Polish, English, German"
