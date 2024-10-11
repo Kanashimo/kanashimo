@@ -1,7 +1,6 @@
 # `"👋": "Hello!",`
-```js
+```json
 "🪪": "Franciszek 'Kanashimo' Chycki",
-"🏠": "Poland",
 "💬": "Polish, English, German"
 "💻": "PHP, JavaScript, SQL, Python, Bootstrap, Lua",
 "🎓": "C++, C#, Unity"
